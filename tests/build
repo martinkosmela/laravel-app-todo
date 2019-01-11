@@ -1,0 +1,2 @@
+
+APP_NAME=laravel_app_1 WEB_NAME=laravel_web_1 WEB_PORT=8181 DB_NAME=laravel_db_1 DB_PORT=33061 COMPOSE_PROJECT_NAME={unique_name}  docker-compose up -d
